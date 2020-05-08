@@ -11,7 +11,7 @@
     "install": "cd client && npm install",
     "build": "cd client && npm run build"
   },
-  "author": "Bryan Jerger",
+  "author": "Team Matrix",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.1",
